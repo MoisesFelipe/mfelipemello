@@ -15,7 +15,7 @@ status:
 # Organizations/Affiliations
 organizations:
   - name: Los Alamos National Laboratory
-   url: "https://www.lanl.gov/"
+    url: "https://www.lanl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Felipe has a Ph.D in electrical engineering focused on applied machine learning, AI, and computer vision for structural health monitoring of civil/mechanical infrastructures. With over 7 years of experience in the field, he has developed several algorithms for 3D imaging, modeling, and rendering. He has over 60 papers published in high-end peer-reviewed conferences and journals, as well as 2 book chapters. His work has been cited over 800 times according to Google Scholar.
