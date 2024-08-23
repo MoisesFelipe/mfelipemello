@@ -9,8 +9,8 @@ superuser: true
 role: 'Postdoctoral Research Associate'
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ social:
 Moises Felipe received the Ph.D. degree in electrical engineering from the Federal University of Pará, Brazil, in 2020. Currently a postdoctoral research associate at the Los Alamos National Laboratory (LANL), as part of the National Security Education Center (NSEC), working on the development of algorithms for inverse neural rendering and neuromorphic imaging for photo-realistic 3D modeling of scenes and monitoring of high-speed physical phenomena. Before joining LANL he has been a postdoctoral fellow at the Scuola Superiore Sant’Anna, Italy, for one and a half years performing research activities related to intelligent software-defined optical networks, internet of things, and network automation. Moises has collaborated in more than 30 papers published in peer-reviewed international journals and over 20 publications in national and international conference proceedings, currently serving as reviewer for a few international journals. At LANL, he has served as co-mentor for students enrolled in the Los Alamos Dynamics Summer School for a few years, leading to papers published in conference proceedings. Also, while at LANL, he has been granted a conference award for his work involving an LDRD project to develop an imager-based motion identification technique from dynamic point clouds using blind source separation and motion magnification techniques.
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
